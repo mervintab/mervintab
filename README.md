@@ -27,6 +27,19 @@ Hands-on blue team activities focused on proactive detection, investigation, and
 
 ---
 
+## 🔐 Security Tools & Automation
+
+- 🛠️ **[Firewall Log Analyzer Script](https://github.com/mervintab/firewall-log-analyzer)**  
+  Parses and visualizes firewall logs to identify anomalies and potential intrusion attempts.
+
+- 📊 **[SIEM Log Ingestion Pipeline](https://github.com/mervintab/siem-log-ingestion)**  
+  Built a basic log ingestion setup that simulates log forwarding from endpoints to a SIEM.
+## 📁 Log Parsing & Data Transformation
+
+- 🐍 **[Log to JSON Parser (Python)](https://github.com/mervintab/log-to-json)**  
+  A Python script that reads raw log files and converts them into structured JSON format for easier ingestion, analysis, or integration with SIEM platforms. Great for transforming legacy logs into modern formats.
+
+
 ## 🤝 Let's Connect
 
 I'm always open to collaboration, feedback, or just a good cybersecurity chat! Feel free to reach out:
