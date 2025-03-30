@@ -29,7 +29,7 @@ Hands-on blue team activities focused on proactive detection, investigation, and
 
 ## 🔐 Security Tools & Automation
 
-- 🛠️ **[Firewall Log Analyzer Script](https://github.com/mervintab/firewall-log-analyzer)**  
+- 🛠️ **[Firewall Log Analyzer Script](https://github.com/mervintab/scripts-public/tree/main/firewall_log_analyzer)**  
   Parses and visualizes firewall logs to identify anomalies and potential intrusion attempts.
 
 - 📊 **[SIEM Log Ingestion Pipeline](https://github.com/mervintab/siem-log-ingestion)**  
