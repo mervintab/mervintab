@@ -35,7 +35,7 @@ Hands-on blue team activities focused on proactive detection, investigation, and
 - 📊 **[SIEM Log Ingestion Pipeline](https://github.com/mervintab/siem-log-ingestion)**  
   Built a basic log ingestion setup that simulates log forwarding from endpoints to a SIEM.
 
-- 🐍 **[Log to JSON Parser (Python)](https://github.com/mervintab/log-to-json)**  
+- 🐍 **[Log to JSON Parser (Python)](https://github.com/mervintab/scripts-public/tree/main/log_to_json_converter)**  
   A Python script that reads raw log files and converts them into structured JSON format for easier ingestion, analysis, or integration with SIEM platforms. Great for transforming legacy logs into modern formats.
 
 
