@@ -22,7 +22,7 @@ Projects focused on identifying, prioritizing, and remediating security vulnerab
 
 Hands-on blue team activities focused on proactive detection, investigation, and response.
 
-- 🕵️‍♂️ **[Threat Hunting Scenario: Tor Browser Detection](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
+- 🕵️‍♂️ **[Threat Hunting Scenario: Tor Browser Detection](https://github.com/mervintab/threat-hunting-scenarios)**  
   Participated in a simulated threat hunt to detect anonymized browsing behavior. Used log analysis and detection engineering techniques to identify and investigate suspicious activity.
 
 ---
