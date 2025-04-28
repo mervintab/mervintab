@@ -16,13 +16,9 @@ Projects focused on identifying, prioritizing, and remediating security vulnerab
 - 💻 **[Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**  
   Scripts developed to automate the remediation of vulnerabilities across Windows and Linux systems. Demonstrates proficiency in secure scripting and system hardening.
 
----
-# STIG Implementation Repository
-
-This repository contains PowerShell scripts and documentation for implementing and remediating DISA STIG requirements on Windows systems. 
-
-It is intended to support system hardening, compliance auditing, and secure configuration management.
-
+- 💻 **[STIG Implementation Repository)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**  
+  This repository contains PowerShell scripts and documentation for implementing and remediating DISA STIG requirements on Windows systems. It is intended to support system hardening, compliance auditing, and secure configuration management.
+-
 ## 🚨 Threat Hunting & Security Operations
 
 Hands-on blue team activities focused on proactive detection, investigation, and response.
