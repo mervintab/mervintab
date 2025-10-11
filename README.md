@@ -46,6 +46,7 @@ Hands-on blue team activities focused on proactive detection, investigation, and
 ## 🤝 Let's Connect
 
 I'm always open to collaboration, feedback, or just a good cybersecurity chat! Feel free to reach out:
+
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
 <br/><br/>
