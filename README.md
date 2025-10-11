@@ -46,15 +46,8 @@ Hands-on blue team activities focused on proactive detection, investigation, and
 ## 🤝 Let's Connect
 
 I'm always open to collaboration, feedback, or just a good cybersecurity chat! Feel free to reach out:
-
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/><br/>
 
-[twitter]: https://twitter.com/___________  
-[youtube]: https://www.youtube.com/c/___________  
-[instagram]: https://www.instagram.com/___________  
 [linkedin]: https://linkedin.com/in/mervintab
