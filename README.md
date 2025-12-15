@@ -13,9 +13,6 @@ Projects focused on identifying, prioritizing, and remediating security vulnerab
 - 🔧 **[Vulnerability Management Program Implementation](https://github.com/mervintab/vulnerability-management-program)**  
   Designed and documented a structured vulnerability management process using best practices, tools, and frameworks. Covers asset discovery, risk scoring, and remediation workflows.
 
-- 💻 **[Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**  
-  Scripts developed to automate the remediation of vulnerabilities across Windows and Linux systems. Demonstrates proficiency in secure scripting and system hardening.
-
 - 💻 **[STIG Implementation Repository](https://github.com/mervintab/vulnerability-management-program/tree/main/STIG-Implementations)**  
   This repository contains PowerShell scripts and documentation for implementing and remediating DISA STIG requirements on Windows systems. It is intended to support system hardening, compliance auditing, and secure configuration management.
 -
