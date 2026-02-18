@@ -26,13 +26,12 @@ My goal is to contribute to a security team where I can help detect threats, imp
   <a href="https://www.credly.com/badges/98ebd14a-50e6-49bd-bad6-bb017f40fb9a/public_url">
     <img src="assets/cisco-ccst-networking.png" width="120"/>
   </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MervinTabernero-5158/9F9A5946D154A31A?sharingId=51F966BDC795C705" target="_blank">
+  <img src="assets/ms-az-900.png" alt="Microsoft Credential" width="120"/>
+</a>
+
 </p>
 
-## 🪪 Microsoft Learn Verification
-
-* Microsoft credential verification: https://learn.microsoft.com/api/credentials/share/en-us/MervinTabernero-5158/9F9A5946D154A31A?sharingId=51F966BDC795C705
-
----
 
 ## 🛠️ Core Security Skills & Tools
 
