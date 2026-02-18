@@ -8,24 +8,22 @@ Here, you'll find a collection of projects that reflect my skills in vulnerabili
 ## 🏅 Credly Badges (Verified Certifications)
 
 <p align="left">
-  <a href="https://www.credly.com/badges/9db1642a-8ea9-4d74-8f9a-83c0a0fc8494/public_url" target="_blank">
-    <img src="assets/comptia-security-ce-certification.png" alt="CompTIA Security+ ce" width="120"/>
+  <a href="https://www.credly.com/badges/9db1642a-8ea9-4d74-8f9a-83c0a0fc8494/public_url">
+    <img src="assets/comptia-security-ce-certification.png" width="120"/>
   </a>
 
-  <a href="https://www.credly.com/badges/071b8dcc-a957-4434-9180-e471af6aeeea/public_url" target="_blank">
-    <img src="assets/comptia-a-ce-certification.png" alt="CompTIA A+ ce" width="120"/>
+  <a href="https://www.credly.com/badges/071b8dcc-a957-4434-9180-e471af6aeeea/public_url">
+    <img src="assets/comptia-a-ce-certification.png" width="120"/>
   </a>
 
-  <a href="https://www.credly.com/badges/91226662-501c-430d-897e-b366d9794abf/public_url" target="_blank">
-    <img src="assets/cisco-certified-support-technician-cybersecurity-cc.png" alt="Cisco CCST Cybersecurity" width="120"/>
+  <a href="https://www.credly.com/badges/91226662-501c-430d-897e-b366d9794abf/public_url">
+    <img src="assets/cisco-ccst-cybersecurity.png" width="120"/>
   </a>
 
-  <a href="https://www.credly.com/badges/98ebd14a-50e6-49bd-bad6-bb017f40fb9a/public_url" target="_blank">
-    <img src="assets/cisco-certified-support-technician-networking-ccst.png" alt="Cisco CCST Networking" width="120"/>
+  <a href="https://www.credly.com/badges/98ebd14a-50e6-49bd-bad6-bb017f40fb9a/public_url">
+    <img src="assets/cisco-ccst-networking.png" width="120"/>
   </a>
 </p>
-
-💡 *Click a badge to verify on Credly.*
 
 ---
 
