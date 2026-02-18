@@ -66,6 +66,13 @@ Vulnerability Management • STIG Hardening • Risk Assessment • Security Aut
 
 ---
 
+## 🤖 AI Security Tools & Projects
+
+- 🧠 **CWISA Practice Exam GPT**  
+  AI-powered wireless security certification simulator with dynamic question generation.  
+  👉 https://chatgpt.com/g/g-698db069762c81918a3f78a371065c7b-cwisa-practice-exam-gpt
+
+
 ## 🔐 Security Tools & Automation
 
 * 🛠️ **[Firewall Log Analyzer Script](https://github.com/mervintab/scripts-public/tree/main/firewall_log_analyzer)**
