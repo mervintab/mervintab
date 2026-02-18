@@ -1,10 +1,13 @@
-# [Mervin Tabernero](https://www.linkedin.com/in/mervintab/)’s IT & Cybersecurity Project Portfolio 🔐
+# [Mervin Tabernero](https://www.linkedin.com/in/mervintab/) — SOC Analyst | Cloud Security | Threat Detection 🔐
 
-Welcome to my cybersecurity and IT portfolio! I'm a passionate cybersecurity professional with a background in medical technology, now fully immersed in the world of digital defense. I enjoy solving complex problems through hands-on, practical projects that strengthen security postures and improve operational efficiency.
+Welcome to my cybersecurity portfolio! I'm a Security+-certified cybersecurity professional transitioning from a medical technology background into full-time cybersecurity. I specialize in **threat detection, vulnerability management, and security operations**, with hands-on experience building real-world SOC and cloud security labs.
 
-Here, you'll find a collection of projects that reflect my skills in vulnerability management, threat hunting, scripting, and more. These experiences continue to shape my journey as I pursue a career in cybersecurity—one challenge at a time.
+My goal is to contribute to a security team where I can help detect threats, improve defenses, and strengthen organizational security posture.
 
 ---
+
+## 🎓 Industry Certifications
+
 ## 🏅 Credly Badges (Verified Certifications)
 
 <p align="left">
@@ -23,54 +26,67 @@ Here, you'll find a collection of projects that reflect my skills in vulnerabili
   <a href="https://www.credly.com/badges/98ebd14a-50e6-49bd-bad6-bb017f40fb9a/public_url">
     <img src="assets/cisco-ccst-networking.png" width="120"/>
   </a>
-  
- ## 🪪 Microsoft Learn Verification
-- Microsoft credential verification: https://learn.microsoft.com/api/credentials/share/en-us/MervinTabernero-5158/9F9A5946D154A31A?sharingId=51F966BDC795C705
-
-
 </p>
+
+## 🪪 Microsoft Learn Verification
+
+* Microsoft credential verification: https://learn.microsoft.com/api/credentials/share/en-us/MervinTabernero-5158/9F9A5946D154A31A?sharingId=51F966BDC795C705
+
+---
+
+## 🛠️ Core Security Skills & Tools
+
+**Security Operations:**
+SIEM • Threat Hunting • Log Analysis • Detection Engineering • Incident Response
+
+**Platforms & Technologies:**
+Azure • Microsoft Sentinel • Splunk • Wazuh • LimaCharlie • pfSense
+
+**Security Practices:**
+Vulnerability Management • STIG Hardening • Risk Assessment • Security Automation
+
+---
+
+## 🚨 Featured SOC & Security Projects
+
+### 🔎 Threat Hunting & Detection Engineering
+
+* 🕵️‍♂️ **[Threat Hunting Scenario: Tor Browser Detection](https://github.com/mervintab/threat-hunting-scenarios)**
+  Conducted a simulated threat hunt using SIEM log analysis to detect anonymized browsing activity. Applied detection engineering techniques to identify suspicious behavior.
 
 ---
 
 ## ⚠️ Vulnerability Management Projects
 
-Projects focused on identifying, prioritizing, and remediating security vulnerabilities across environments.
+* 🔧 **[Vulnerability Management Program Implementation](https://github.com/mervintab/vulnerability-management-program)**
+  Designed and documented a structured vulnerability management process covering asset discovery, risk scoring, and remediation workflows.
 
-- 🔧 **[Vulnerability Management Program Implementation](https://github.com/mervintab/vulnerability-management-program)**  
-  Designed and documented a structured vulnerability management process using best practices, tools, and frameworks. Covers asset discovery, risk scoring, and remediation workflows.
-
-- 💻 **[STIG Implementation Repository](https://github.com/mervintab/vulnerability-management-program/tree/main/STIG-Implementations)**  
-  This repository contains PowerShell scripts and documentation for implementing and remediating DISA STIG requirements on Windows systems. It is intended to support system hardening, compliance auditing, and secure configuration management.
--
-## 🚨 Threat Hunting & Security Operations
-
-Hands-on blue team activities focused on proactive detection, investigation, and response.
-
-- 🕵️‍♂️ **[Threat Hunting Scenario: Tor Browser Detection](https://github.com/mervintab/threat-hunting-scenarios)**  
-  Participated in a simulated threat hunt to detect anonymized browsing behavior. Used log analysis and detection engineering techniques to identify and investigate suspicious activity.
+* 💻 **[STIG Implementation Repository](https://github.com/mervintab/vulnerability-management-program/tree/main/STIG-Implementations)**
+  PowerShell scripts and documentation supporting DISA STIG compliance, system hardening, and secure configuration management.
 
 ---
 
 ## 🔐 Security Tools & Automation
 
-- 🛠️ **[Firewall Log Analyzer Script](https://github.com/mervintab/scripts-public/tree/main/firewall_log_analyzer)**  
-  Parses and visualizes firewall logs to identify anomalies and potential intrusion attempts.
+* 🛠️ **[Firewall Log Analyzer Script](https://github.com/mervintab/scripts-public/tree/main/firewall_log_analyzer)**
+  Parses firewall logs to identify anomalies and potential intrusion attempts.
 
-- 📊 **[SIEM Log Ingestion Pipeline](https://github.com/mervintab/siem-log-ingestion)**  
-  Built a basic log ingestion setup that simulates log forwarding from endpoints to a SIEM.
+* 📊 **[SIEM Log Ingestion Pipeline](https://github.com/mervintab/siem-log-ingestion)**
+  Built a simulated log forwarding pipeline for SIEM ingestion.
 
-- 🐍 **[Log to JSON Parser (Python)](https://github.com/mervintab/scripts-public/tree/main/log_to_json_converter)**  
-  A Python script that reads raw log files and converts them into structured JSON format for easier ingestion, analysis, or integration with SIEM platforms. Great for transforming legacy logs into modern formats.
+* 🐍 **[Log to JSON Parser (Python)](https://github.com/mervintab/scripts-public/tree/main/log_to_json_converter)**
+  Converts raw logs into structured JSON for SIEM integration.
 
-- 🐍 **[The Hive -Docker Installation (Bash)](https://github.com/mervintab/scripts-public/tree/main/theHive-Docker-Install)**  
-  A concise, step-by-step guide to installing and running TheHive 5 using Docker and Docker Compose for streamlined incident response deployment.
+* 🐍 **[The Hive -Docker Installation (Bash)](https://github.com/mervintab/scripts-public/tree/main/theHive-Docker-Install)**
+  Step-by-step guide for deploying TheHive 5 using Docker.
 
+---
 
 ## 🤝 Let's Connect
 
-I'm always open to collaboration, feedback, or just a good cybersecurity chat! Feel free to reach out:
+I'm always open to collaboration, mentorship, and cybersecurity opportunities.
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/><br/>
 
