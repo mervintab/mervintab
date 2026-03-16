@@ -67,10 +67,15 @@ Vulnerability Management • STIG Hardening • Risk Assessment • Security Aut
 
 ## 🤖 AI Security Tools & Projects
 
-- 🧠 **CWISA Practice Exam GPT**  
-  AI-powered wireless security certification simulator with dynamic question generation.  
+* 🔍 **[AI-Powered SOC Lab: Splunk + Claude MCP Integration](https://github.com/mervintab/splunk-soc-lab)**
+  Built a cloud-hosted SOC lab on Vultr running Splunk Enterprise, integrated with Claude AI via the Model Context Protocol (MCP). Enables natural language threat hunting — no SPL required. Detected and blocked real SSH brute force campaigns within 24 hours of deployment. Secured with Tailscale VPN for multi-device remote access.
+  `Splunk` `Claude MCP` `Tailscale` `Vultr` `Threat Hunting` `Ubuntu`
+
+* 🧠 **CWISA Practice Exam GPT**
+  AI-powered wireless security certification simulator with dynamic question generation.
   👉 https://chatgpt.com/g/g-698db069762c81918a3f78a371065c7b-cwisa-practice-exam-gpt
 
+---
 
 ## 🔐 Security Tools & Automation
 
