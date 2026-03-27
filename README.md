@@ -59,6 +59,8 @@ Vulnerability Management • STIG Hardening • Risk Assessment • Security Aut
   AI-powered wireless security certification simulator with dynamic question generation.
   👉 https://chatgpt.com/g/g-698db069762c81918a3f78a371065c7b-cwisa-practice-exam-gpt
 
+---
+
 ### 🔎 Threat Hunting & Detection Engineering
 
 * 🕵️‍♂️ **[Threat Hunting Scenario: Tor Browser Detection](https://github.com/mervintab/threat-hunting-scenarios)**
