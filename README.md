@@ -23,6 +23,10 @@ My goal is to contribute to a security team where I can help detect threats, imp
     <img src="assets/cisco-ccst-cybersecurity.png" width="120"/>
   </a>
 
+  <a href="https://www.credly.com/badges/b1fd175c-7890-4d27-8635-6721fb3cad21/public_url">
+    <img src="assets/cisco-certified-support-technician-it-support-ccst-.1.png" width="120"/>
+  </a>
+
   <a href="https://www.credly.com/badges/98ebd14a-50e6-49bd-bad6-bb017f40fb9a/public_url">
     <img src="assets/cisco-ccst-networking.png" width="120"/>
   </a>
