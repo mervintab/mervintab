@@ -11,10 +11,8 @@ My goal is to contribute to a security team where I can help detect threats, imp
 ## 🏅 Credly Badges (Verified Certifications)
 
 <p align="left">
-
-  <a href="<a href="https://www.credly.com/badges/9db1642a-8ea9-4d74-8f9a-83c0a0fc8494/public_url">
-    <img src="assets/Comptia_CySA_Plus_png" width="120"/>
-  </a>">
+ 
+   </a>">
     <img src="assets/comptia-security-ce-certification.png" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/9db1642a-8ea9-4d74-8f9a-83c0a0fc8494/public_url">
